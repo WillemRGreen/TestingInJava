@@ -1,0 +1,7 @@
+./Maven Dependencies
+./target
+./JRE System Library
+src/main/resources
+.classpath
+.settings/
+.project
